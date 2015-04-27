@@ -1,0 +1,1 @@
+This collection of files calculates the CFE coefficients of Champernowne's Constant in base 10 right before the High water Marks (HWMs). There are programs in Ruby and C. MPIR is needed for the C programs. There are other programs that check the results against each other, etc.
